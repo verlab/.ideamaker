@@ -1,0 +1,16 @@
+{
+    "header": {
+        "filament_id": "2aeacb00-db9c-4c87-8c65-bcd7e97de7ab",
+        "filament_name": "ABS 1.75mm"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_density": 1050,
+        "filament_diameter": 1.75,
+        "filament_flowrate": 100,
+        "filament_price": 85
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}

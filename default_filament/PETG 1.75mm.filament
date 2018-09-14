@@ -1,0 +1,16 @@
+{
+    "header": {
+        "filament_id": "2b17ede2-b68e-4a18-9268-6aee4a5f69f0",
+        "filament_name": "PETG 1.75mm"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_density": 1250,
+        "filament_diameter": 1.75,
+        "filament_flowrate": 100,
+        "filament_price": 110
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}
