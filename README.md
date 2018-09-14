@@ -13,13 +13,43 @@ $ rm -rf .ideamaker # remove default configuration file
 $ git clone https://github.com/verlab/.ideamaker.git
 ```
 
-# Usage
+# Usage 101
+## 1 Step (Import Model)
 * Open the ideamaker slicer:
 ```sh
 $ ideamaker
 ```
+* Add a 3D model usign stl format
+![system](doc/img/step1.png)
+
+## 2 Step (Slice Model)
+* Click on Slice Button
+* Check if the printer type
+* Select the filament and the quality 
+![system](doc/img/step2.png)
+
+## 3 Step (Infill Model)
+* Select the better infill density and platform adhesion types
+* Save and click on slice button
+![system](doc/img/step3.png)
+
+## 4 Step (Export Model)
+* Check the estimates
+* Click on Export
+![system](doc/img/step4.png)
+* Save to gcode format
+![system](doc/img/step5.png)
+
+## 5 Step (Printing)
+* Open the browser and type the local address of the printer
+* Log the user with password
+* Upload the exported file in gcode format
+![system](doc/img/step6.png)
+* Click on the imported file and finally click on print button
+![system](doc/img/step7.png)
 
 # Tested Configurations
+> **Please, feel free to report any issue.**
 ## ABS
 - [ ] High Quality - ABS
 - [x] Standard Quality - ABS
