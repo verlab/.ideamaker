@@ -1,5 +1,5 @@
 # 3D Printer Setup Files
-[![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)](https://www.verlab.dcc.ufmg.br/semantic-hyperlapse)
+![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 
 This repository is used to share configuration file of our 3D printer.
