@@ -1,5 +1,5 @@
 # 3D Printer Setup Files
-![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)
+[![Version](https://img.shields.io/badge/version-0.1-brightgreen.svg)](https://github.com/verlab/.ideamaker/releases/tag/v0.1)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 
 This repository is used to share configuration file of our 3D printer.
