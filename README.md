@@ -42,7 +42,7 @@ $ ideamaker
 
 ## 5 Step (Printing)
 * Open the browser and type the local address of the printer
-* Log the user with password
+* Log the user with password (ldap)
 * Upload the exported file in gcode format
 ![system](doc/img/step6.png)
 * Click on the imported file and finally click on print button
