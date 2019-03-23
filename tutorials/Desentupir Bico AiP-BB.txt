@@ -1,0 +1,48 @@
+***************** Leia todo o documento antes de iniciar os procedimentos de manutenção *****************
+
+Assistir o vídeo dos links abaixo
+https://www.youtube.com/watch?v=Z9GRl7kwR40
+https://www.youtube.com/watch?v=skL4eZS1Ego
+
+Ferramentas necessárias:
+Chave de fenda
+Chave de boca 7mm
+Chave de boca 19mm
+Alicate universal
+Pasta térmica
+Fita veda rosca
+
+Qualquer dúvida, favor entrar em contato com o suporte
+
+Após o procedimento do primeiro vídeo:
+
+**** Muito cuidado ao prender o bloco de alumínio com a chave 19 para não danificar o termistor  ****
+
+Com a Chave 19 prendendo o bloco aquecedor, segure o corpo de inox com um alicate universal e desenrosque-o.
+
+Para soltar o bico, segure o bloco de alumínio com uma chave 19mm e com a chave 7mm desenrosque o bico de latão.
+
+Para retirar o tubo de teflon do corpo de inox, use uma chave allen 2mm para empurrá-lo no mesmo sentido que passa o filamento, caso esteja difícil de retirar, provavelmente ele vai estar danificado, nesse caso pra retirar mais fácil, você pode rosquear um parafuso de rosca soberba nele e puxar com um alicate, aí vai ser preciso substituir o tubo de teflon.
+
+Se o tubo de teflon estiver amassado, inchado ou com partes queimadas, será preciso substituí-lo.
+
+Caso o bico esteja entupido, você pode tentar o procedimento a seguir como forma de salvá-lo, mas o ideal é substituir por um novo.
+
+Para desentupir o bico de latão, você deve segura-lo com um alicate, mantendo sua ponta para cima e levar ao fogo(fogão caseiro) por aproximadamente 10 minutos ou até que ele esteja sem nenhum resíduo de plástico. Após isso, passe uma corda MI em aço(guitarra) no bico para certificar que ele está desentupido.
+
+Esse procedimento de levar o bico ao fogo não é garantido que funciona e pode em alguns casos vir a deformar o bico, então você executa por conta e risco. O recomendado é a substituição como dito anteriormente
+
+Limpar bem a rosca do bloco de alumínio.
+
+A montagem do conjunto é da seguinte forma:
+Passe pasta térmica na rosca do bico de latão e enrosque o mesmo no bloco de alumínio, não precisa de muito aperto, pois a rosca de alumínio é frágil.
+Passe fita veda rosca na rosca do corpo de inox, com cuidado para que não fique sobrando partes para dentro.
+Segure o bloco de alumínio com a chave 19 e monte o corpo de inox no bloco de alumínio, apertando-o um pouco com um alicate universal.
+
+
+Verificar se a engrenagem do extrusor não tem resíduos de plástico, se tiver limpe-a bem.
+
+Após montar todo o hotend, seguir as instruções do vídeo abaixo para calibrar o Z-Probe
+https://www.youtube.com/watch?v=w6ARW7k_Hpk
+
+

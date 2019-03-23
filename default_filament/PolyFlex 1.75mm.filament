@@ -1,14 +1,14 @@
 {
     "header": {
-        "filament_id": "db0ee1f5-1624-4d9d-8d05-ba9e1728a673",
-        "filament_name": "PLA 1.75mm"
+        "filament_id": "645debcf-cb35-4141-85d8-2ac2e4c7093c",
+        "filament_name": "PolyFlex 1.75mm"
     },
     "override_slice_settings": false,
     "settings": {
-        "filament_density": 1270,
+        "filament_density": 1210,
         "filament_diameter": 1.75,
         "filament_flowrate": 100,
-        "filament_price": 120
+        "filament_price": 76
     },
     "slice_settings": {
     },

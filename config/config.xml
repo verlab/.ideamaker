@@ -4,9 +4,9 @@
 	<show_note>0</show_note>
 	<lang>sys</lang>
 	<skip_version></skip_version>
-	<last_save_dir>/home/rezeck/Desktop/</last_save_dir>
-	<last_open_dir>/home/rezeck/Desktop/herostl/model/</last_open_dir>
-	<last_export_dir>/home/rezeck/</last_export_dir>
+	<last_save_dir>/media/rezeck/SD Card/d&amp;d/</last_save_dir>
+	<last_open_dir>/home/rezeck/Downloads/dd_figures/</last_open_dir>
+	<last_export_dir>/home/rezeck/Downloads/spider/</last_export_dir>
 	<enable_skin>1</enable_skin>
 	<camera>
 		<camera_distance>330.00</camera_distance>
@@ -16,7 +16,7 @@
 		<camera_angleY>0.00</camera_angleY>
 	</camera>
 	<printers>
-		<current>12</current>
+		<current>13</current>
 		<item>
 			<type>ideaPrinter F100</type>
 			<max_print_x>305.00</max_print_x>
@@ -26,11 +26,15 @@
 			<compensation_x>100.00</compensation_x>
 			<compensation_y>100.00</compensation_y>
 			<nozzle_diameter>0.40</nozzle_diameter>
+			<nozzle_diameter_2>0.40</nozzle_diameter_2>
 			<heat_bed>0</heat_bed>
 			<fan_control>1</fan_control>
+			<distance_from_border>2.50</distance_from_border>
 			<extruder_num>1</extruder_num>
 			<extruder_2_offset_x>25.00</extruder_2_offset_x>
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
+			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
+			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
 			<extruder_filament_1>0</extruder_filament_1>
 			<extruder_filament_2>0</extruder_filament_2>
 			<extruder_filament_name_1>PLA 3mm</extruder_filament_name_1>
@@ -39,6 +43,7 @@
 			<extruder_temp_max_1>310</extruder_temp_max_1>
 			<extruder_temp_max_2>310</extruder_temp_max_2>
 			<heat_bed_temp_max>110</heat_bed_temp_max>
+			<bed_shape>0</bed_shape>
 		</item>
 		<item>
 			<type>ideaPrinter F100L</type>
@@ -49,11 +54,15 @@
 			<compensation_x>100.00</compensation_x>
 			<compensation_y>100.00</compensation_y>
 			<nozzle_diameter>0.40</nozzle_diameter>
+			<nozzle_diameter_2>0.40</nozzle_diameter_2>
 			<heat_bed>0</heat_bed>
 			<fan_control>1</fan_control>
+			<distance_from_border>2.50</distance_from_border>
 			<extruder_num>1</extruder_num>
 			<extruder_2_offset_x>25.00</extruder_2_offset_x>
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
+			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
+			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
 			<extruder_filament_1>0</extruder_filament_1>
 			<extruder_filament_2>0</extruder_filament_2>
 			<extruder_filament_name_1>PLA 3mm</extruder_filament_name_1>
@@ -62,6 +71,7 @@
 			<extruder_temp_max_1>310</extruder_temp_max_1>
 			<extruder_temp_max_2>310</extruder_temp_max_2>
 			<heat_bed_temp_max>110</heat_bed_temp_max>
+			<bed_shape>0</bed_shape>
 		</item>
 		<item>
 			<type>ideaPrinter F1</type>
@@ -72,11 +82,15 @@
 			<compensation_x>100.00</compensation_x>
 			<compensation_y>100.00</compensation_y>
 			<nozzle_diameter>0.40</nozzle_diameter>
+			<nozzle_diameter_2>0.40</nozzle_diameter_2>
 			<heat_bed>1</heat_bed>
 			<fan_control>1</fan_control>
+			<distance_from_border>2.50</distance_from_border>
 			<extruder_num>1</extruder_num>
 			<extruder_2_offset_x>25.00</extruder_2_offset_x>
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
+			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
+			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
 			<extruder_filament_1>0</extruder_filament_1>
 			<extruder_filament_2>0</extruder_filament_2>
 			<extruder_filament_name_1>PLA 3mm</extruder_filament_name_1>
@@ -85,6 +99,7 @@
 			<extruder_temp_max_1>310</extruder_temp_max_1>
 			<extruder_temp_max_2>310</extruder_temp_max_2>
 			<heat_bed_temp_max>110</heat_bed_temp_max>
+			<bed_shape>0</bed_shape>
 		</item>
 		<item>
 			<type>ideaPrinter F2</type>
@@ -95,11 +110,15 @@
 			<compensation_x>100.00</compensation_x>
 			<compensation_y>100.00</compensation_y>
 			<nozzle_diameter>0.40</nozzle_diameter>
+			<nozzle_diameter_2>0.40</nozzle_diameter_2>
 			<heat_bed>1</heat_bed>
 			<fan_control>1</fan_control>
+			<distance_from_border>2.50</distance_from_border>
 			<extruder_num>1</extruder_num>
 			<extruder_2_offset_x>25.00</extruder_2_offset_x>
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
+			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
+			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
 			<extruder_filament_1>0</extruder_filament_1>
 			<extruder_filament_2>0</extruder_filament_2>
 			<extruder_filament_name_1>PLA 3mm</extruder_filament_name_1>
@@ -108,6 +127,7 @@
 			<extruder_temp_max_1>310</extruder_temp_max_1>
 			<extruder_temp_max_2>310</extruder_temp_max_2>
 			<heat_bed_temp_max>110</heat_bed_temp_max>
+			<bed_shape>0</bed_shape>
 		</item>
 		<item>
 			<type>RAISE3D N1</type>
@@ -118,11 +138,15 @@
 			<compensation_x>100.00</compensation_x>
 			<compensation_y>100.25</compensation_y>
 			<nozzle_diameter>0.40</nozzle_diameter>
+			<nozzle_diameter_2>0.40</nozzle_diameter_2>
 			<heat_bed>1</heat_bed>
 			<fan_control>1</fan_control>
+			<distance_from_border>2.50</distance_from_border>
 			<extruder_num>1</extruder_num>
 			<extruder_2_offset_x>25.00</extruder_2_offset_x>
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
+			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
+			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
 			<extruder_filament_1>2</extruder_filament_1>
 			<extruder_filament_2>2</extruder_filament_2>
 			<extruder_filament_name_1>PLA 1.75mm</extruder_filament_name_1>
@@ -131,6 +155,7 @@
 			<extruder_temp_max_1>310</extruder_temp_max_1>
 			<extruder_temp_max_2>310</extruder_temp_max_2>
 			<heat_bed_temp_max>110</heat_bed_temp_max>
+			<bed_shape>0</bed_shape>
 		</item>
 		<item>
 			<type>RAISE3D N2</type>
@@ -141,11 +166,15 @@
 			<compensation_x>100.00</compensation_x>
 			<compensation_y>100.25</compensation_y>
 			<nozzle_diameter>0.40</nozzle_diameter>
+			<nozzle_diameter_2>0.40</nozzle_diameter_2>
 			<heat_bed>1</heat_bed>
 			<fan_control>1</fan_control>
+			<distance_from_border>2.50</distance_from_border>
 			<extruder_num>1</extruder_num>
 			<extruder_2_offset_x>25.00</extruder_2_offset_x>
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
+			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
+			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
 			<extruder_filament_1>2</extruder_filament_1>
 			<extruder_filament_2>2</extruder_filament_2>
 			<extruder_filament_name_1>PLA 1.75mm</extruder_filament_name_1>
@@ -154,6 +183,7 @@
 			<extruder_temp_max_1>310</extruder_temp_max_1>
 			<extruder_temp_max_2>310</extruder_temp_max_2>
 			<heat_bed_temp_max>110</heat_bed_temp_max>
+			<bed_shape>0</bed_shape>
 		</item>
 		<item>
 			<type>RAISE3D N2 Plus</type>
@@ -164,11 +194,15 @@
 			<compensation_x>100.00</compensation_x>
 			<compensation_y>100.25</compensation_y>
 			<nozzle_diameter>0.40</nozzle_diameter>
+			<nozzle_diameter_2>0.40</nozzle_diameter_2>
 			<heat_bed>1</heat_bed>
 			<fan_control>1</fan_control>
+			<distance_from_border>2.50</distance_from_border>
 			<extruder_num>1</extruder_num>
 			<extruder_2_offset_x>25.00</extruder_2_offset_x>
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
+			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
+			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
 			<extruder_filament_1>2</extruder_filament_1>
 			<extruder_filament_2>2</extruder_filament_2>
 			<extruder_filament_name_1>PLA 1.75mm</extruder_filament_name_1>
@@ -177,6 +211,7 @@
 			<extruder_temp_max_1>310</extruder_temp_max_1>
 			<extruder_temp_max_2>310</extruder_temp_max_2>
 			<heat_bed_temp_max>110</heat_bed_temp_max>
+			<bed_shape>0</bed_shape>
 		</item>
 		<item>
 			<type>RAISE3D N1 - V2 Hot End</type>
@@ -187,11 +222,15 @@
 			<compensation_x>100.00</compensation_x>
 			<compensation_y>100.25</compensation_y>
 			<nozzle_diameter>0.40</nozzle_diameter>
+			<nozzle_diameter_2>0.40</nozzle_diameter_2>
 			<heat_bed>1</heat_bed>
 			<fan_control>1</fan_control>
+			<distance_from_border>2.50</distance_from_border>
 			<extruder_num>1</extruder_num>
 			<extruder_2_offset_x>25.00</extruder_2_offset_x>
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
+			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
+			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
 			<extruder_filament_1>10</extruder_filament_1>
 			<extruder_filament_2>10</extruder_filament_2>
 			<extruder_filament_name_1>PLA 1.75mm - V2 Hot End</extruder_filament_name_1>
@@ -200,6 +239,7 @@
 			<extruder_temp_max_1>310</extruder_temp_max_1>
 			<extruder_temp_max_2>310</extruder_temp_max_2>
 			<heat_bed_temp_max>110</heat_bed_temp_max>
+			<bed_shape>0</bed_shape>
 		</item>
 		<item>
 			<type>RAISE3D N2 - V2 Hot End</type>
@@ -210,11 +250,15 @@
 			<compensation_x>100.00</compensation_x>
 			<compensation_y>100.25</compensation_y>
 			<nozzle_diameter>0.40</nozzle_diameter>
+			<nozzle_diameter_2>0.40</nozzle_diameter_2>
 			<heat_bed>1</heat_bed>
 			<fan_control>1</fan_control>
+			<distance_from_border>2.50</distance_from_border>
 			<extruder_num>1</extruder_num>
 			<extruder_2_offset_x>25.00</extruder_2_offset_x>
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
+			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
+			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
 			<extruder_filament_1>10</extruder_filament_1>
 			<extruder_filament_2>10</extruder_filament_2>
 			<extruder_filament_name_1>PLA 1.75mm - V2 Hot End</extruder_filament_name_1>
@@ -223,6 +267,7 @@
 			<extruder_temp_max_1>310</extruder_temp_max_1>
 			<extruder_temp_max_2>310</extruder_temp_max_2>
 			<heat_bed_temp_max>110</heat_bed_temp_max>
+			<bed_shape>0</bed_shape>
 		</item>
 		<item>
 			<type>RAISE3D N2 Plus - V2 Hot End</type>
@@ -233,11 +278,15 @@
 			<compensation_x>100.00</compensation_x>
 			<compensation_y>100.25</compensation_y>
 			<nozzle_diameter>0.40</nozzle_diameter>
+			<nozzle_diameter_2>0.40</nozzle_diameter_2>
 			<heat_bed>1</heat_bed>
 			<fan_control>1</fan_control>
+			<distance_from_border>2.50</distance_from_border>
 			<extruder_num>1</extruder_num>
 			<extruder_2_offset_x>25.00</extruder_2_offset_x>
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
+			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
+			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
 			<extruder_filament_1>10</extruder_filament_1>
 			<extruder_filament_2>10</extruder_filament_2>
 			<extruder_filament_name_1>PLA 1.75mm - V2 Hot End</extruder_filament_name_1>
@@ -246,6 +295,7 @@
 			<extruder_temp_max_1>310</extruder_temp_max_1>
 			<extruder_temp_max_2>310</extruder_temp_max_2>
 			<heat_bed_temp_max>110</heat_bed_temp_max>
+			<bed_shape>0</bed_shape>
 		</item>
 		<item>
 			<type>RAISE3D Pro2</type>
@@ -256,11 +306,15 @@
 			<compensation_x>100.00</compensation_x>
 			<compensation_y>100.00</compensation_y>
 			<nozzle_diameter>0.40</nozzle_diameter>
+			<nozzle_diameter_2>0.40</nozzle_diameter_2>
 			<heat_bed>1</heat_bed>
 			<fan_control>1</fan_control>
+			<distance_from_border>2.50</distance_from_border>
 			<extruder_num>2</extruder_num>
 			<extruder_2_offset_x>0.00</extruder_2_offset_x>
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
+			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
+			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
 			<extruder_filament_1>2</extruder_filament_1>
 			<extruder_filament_2>2</extruder_filament_2>
 			<extruder_filament_name_1>PLA 1.75mm</extruder_filament_name_1>
@@ -269,6 +323,7 @@
 			<extruder_temp_max_1>310</extruder_temp_max_1>
 			<extruder_temp_max_2>310</extruder_temp_max_2>
 			<heat_bed_temp_max>110</heat_bed_temp_max>
+			<bed_shape>0</bed_shape>
 		</item>
 		<item>
 			<type>RAISE3D Pro2 Plus</type>
@@ -279,11 +334,15 @@
 			<compensation_x>100.00</compensation_x>
 			<compensation_y>100.00</compensation_y>
 			<nozzle_diameter>0.40</nozzle_diameter>
+			<nozzle_diameter_2>0.40</nozzle_diameter_2>
 			<heat_bed>1</heat_bed>
 			<fan_control>1</fan_control>
+			<distance_from_border>2.50</distance_from_border>
 			<extruder_num>2</extruder_num>
 			<extruder_2_offset_x>0.00</extruder_2_offset_x>
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
+			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
+			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
 			<extruder_filament_1>2</extruder_filament_1>
 			<extruder_filament_2>2</extruder_filament_2>
 			<extruder_filament_name_1>PLA 1.75mm</extruder_filament_name_1>
@@ -292,6 +351,7 @@
 			<extruder_temp_max_1>310</extruder_temp_max_1>
 			<extruder_temp_max_2>310</extruder_temp_max_2>
 			<heat_bed_temp_max>110</heat_bed_temp_max>
+			<bed_shape>0</bed_shape>
 		</item>
 		<item>
 			<type>Sethi Aip 3</type>
@@ -302,11 +362,43 @@
 			<compensation_x>100.00</compensation_x>
 			<compensation_y>100.00</compensation_y>
 			<nozzle_diameter>0.40</nozzle_diameter>
+			<nozzle_diameter_2>0.40</nozzle_diameter_2>
 			<heat_bed>1</heat_bed>
 			<fan_control>1</fan_control>
+			<distance_from_border>2.50</distance_from_border>
 			<extruder_num>1</extruder_num>
 			<extruder_2_offset_x>25.00</extruder_2_offset_x>
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
+			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
+			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
+			<extruder_filament_1>5</extruder_filament_1>
+			<extruder_filament_2>0</extruder_filament_2>
+			<extruder_filament_name_1>PolyFlex 1.75mm</extruder_filament_name_1>
+			<extruder_filament_name_2>PLA 3mm</extruder_filament_name_2>
+			<baudrate>230400</baudrate>
+			<extruder_temp_max_1>250</extruder_temp_max_1>
+			<extruder_temp_max_2>310</extruder_temp_max_2>
+			<heat_bed_temp_max>120</heat_bed_temp_max>
+			<bed_shape>0</bed_shape>
+		</item>
+		<item>
+			<type>Anet A8</type>
+			<max_print_x>220.00</max_print_x>
+			<max_print_y>220.00</max_print_y>
+			<max_print_z>230.00</max_print_z>
+			<step_e>0.00</step_e>
+			<compensation_x>100.00</compensation_x>
+			<compensation_y>100.00</compensation_y>
+			<nozzle_diameter>0.40</nozzle_diameter>
+			<nozzle_diameter_2>0.40</nozzle_diameter_2>
+			<heat_bed>1</heat_bed>
+			<fan_control>1</fan_control>
+			<distance_from_border>2.50</distance_from_border>
+			<extruder_num>1</extruder_num>
+			<extruder_2_offset_x>25.00</extruder_2_offset_x>
+			<extruder_2_offset_y>0.00</extruder_2_offset_y>
+			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
+			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
 			<extruder_filament_1>3</extruder_filament_1>
 			<extruder_filament_2>0</extruder_filament_2>
 			<extruder_filament_name_1>ABS 1.75mm</extruder_filament_name_1>
@@ -315,10 +407,11 @@
 			<extruder_temp_max_1>250</extruder_temp_max_1>
 			<extruder_temp_max_2>310</extruder_temp_max_2>
 			<heat_bed_temp_max>120</heat_bed_temp_max>
+			<bed_shape>0</bed_shape>
 		</item>
 	</printers>
 	<materials>
-		<current>3</current>
+		<current>5</current>
 		<material>
 			<name>PLA 3mm</name>
 			<filament_diameter>2.930</filament_diameter>
@@ -352,7 +445,7 @@
 			<unit_price>
 				<cn>130.00</cn>
 				<jp>2500.00</jp>
-				<us>130.00</us>
+				<us>120.00</us>
 				<kor>35000.00</kor>
 			</unit_price>
 			<filament_compensation>100.00</filament_compensation>
@@ -394,7 +487,7 @@
 				<us>76.00</us>
 				<kor>88000.00</kor>
 			</unit_price>
-			<filament_compensation>98.00</filament_compensation>
+			<filament_compensation>100.00</filament_compensation>
 			<filament_id>645debcf-cb35-4141-85d8-2ac2e4c7093c</filament_id>
 		</material>
 		<material>
@@ -488,13 +581,26 @@
 			<filament_compensation>95.00</filament_compensation>
 			<filament_id>7e76d445-7aba-48f6-8e15-e1a45a59f7b2</filament_id>
 		</material>
+		<material>
+			<name>PC 1.75mm</name>
+			<filament_diameter>1.750</filament_diameter>
+			<density>1200.00</density>
+			<unit_price>
+				<cn>500.00</cn>
+				<jp>8500.00</jp>
+				<us>76.00</us>
+				<kor>88000.00</kor>
+			</unit_price>
+			<filament_compensation>98.00</filament_compensation>
+			<filament_id>0b545c76-e3b8-4863-8033-c96854129625</filament_id>
+		</material>
 	</materials>
 	<pos_metric>mm</pos_metric>
 	<size_metric>mm</size_metric>
 	<cross_metric>mm</cross_metric>
 	<support>
 		<touch_buildplate>0</touch_buildplate>
-		<pillar_size>2.00</pillar_size>
+		<pillar_size>3.00</pillar_size>
 		<overhang_angle>60.0</overhang_angle>
 	</support>
 	<import_property>
@@ -504,6 +610,23 @@
 	</import_property>
 	<sd_path>c:/</sd_path>
 	<auto_update>1</auto_update>
+	<update>
+		<raisetouch>
+			<check_update>1</check_update>
+			<current_version>0.9.11.612</current_version>
+			<skip_version></skip_version>
+		</raisetouch>
+		<n-motionboard>
+			<check_update>1</check_update>
+			<current_version>1.1.6.1</current_version>
+			<skip_version></skip_version>
+		</n-motionboard>
+		<pro2-motionboard>
+			<check_update>1</check_update>
+			<current_version>0.0.31.0</current_version>
+			<skip_version></skip_version>
+		</pro2-motionboard>
+	</update>
 	<slice_thread>3</slice_thread>
 	<extruder_color>
 		<color>FFFFFF</color>
@@ -539,8 +662,11 @@
 		<show_edges>0</show_edges>
 		<show_wireframes>0</show_wireframes>
 		<show_color_invalid_meshs>1</show_color_invalid_meshs>
-		<show_perspective>1</show_perspective>
+		<show_axes>1</show_axes>
+		<show_perspective>0</show_perspective>
 		<checkbox_tip_grouplayer>1</checkbox_tip_grouplayer>
+		<checkbox_model_deletion>0</checkbox_model_deletion>
+		<show_extruder_range>1</show_extruder_range>
 	</tip>
 	<shortcuts>
 		<rotate_modifier>none</rotate_modifier>
@@ -554,6 +680,11 @@
 		<layer_modifier>shift</layer_modifier>
 		<layer_key>right</layer_key>
 	</shortcuts>
+	<interface>
+		<enable_custom_font>0</enable_custom_font>
+		<custom_font_family></custom_font_family>
+		<custom_font_size>9</custom_font_size>
+	</interface>
 	<control_limit>
 		<max_duplicate>5</max_duplicate>
 	</control_limit>
@@ -561,15 +692,15 @@
 		<current>0</current>
 	</currency_list>
 	<recent>
-		<file>/home/rezeck/Desktop/herostl/model/base.stl</file>
-		<file>/home/rezeck/Desktop/herostl/model/servo_mod.stl</file>
-		<file>/home/rezeck/Desktop/michel.stl</file>
-		<file>/home/rezeck/Downloads/halt_bottom.stl</file>
-		<file>/home/rezeck/Downloads/Bucket_3d_printer.stl</file>
-		<file>/home/rezeck/Downloads/connector.stl</file>
-		<file>/home/rezeck/Downloads/base_1 (1).stl</file>
-		<file>/home/rezeck/Downloads/wheel_gear v2 (2).stl</file>
-		<file>/home/rezeck/Downloads/wheel_test (1).stl</file>
-		<file>/home/rezeck/Downloads/wheel_gear v2 (1).stl</file>
+		<file>/home/rezeck/mega/Projects/ROS/src/bioloid_common/bioloid_description/assets/stl/F12.stl</file>
+		<file>/home/rezeck/Downloads/guts.stl</file>
+		<file>/home/rezeck/Downloads/dd_figures/Beholder One Piece.stl</file>
+		<file>/home/rezeck/Downloads/dd_figures/Demogorgon for Shapeways.stl</file>
+		<file>/home/rezeck/Downloads/dd_figures/Mindflayer_overmind_PRINT.stl</file>
+		<file>/home/rezeck/Downloads/dd_figures/Green Dragon Updated for Shapeways.stl</file>
+		<file>/home/rezeck/Downloads/dd_figures/Naxen Drathkala.stl</file>
+		<file>/home/rezeck/Downloads/spider/hugo_LensMesh-export.stl</file>
+		<file>/home/rezeck/Downloads/spider/hugo_ScarletSpiderMeshLensL-export.stl</file>
+		<file>/home/rezeck/Downloads/spider/hugo_ScarletSpiderMeshLensR-export.stl</file>
 	</recent>
 </config>
