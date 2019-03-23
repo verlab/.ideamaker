@@ -1,5 +1,5 @@
 # 3D Printer Setup Files
-[![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)](https://www.verlab.dcc.ufmg.br/semantic-hyperlapse)
+[![Version](https://img.shields.io/badge/version-0.1-brightgreen.svg)](https://github.com/verlab/.ideamaker/releases/tag/v0.1)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 
 This repository is used to share configuration file of our 3D printer.
@@ -13,13 +13,43 @@ $ rm -rf .ideamaker # remove default configuration file
 $ git clone https://github.com/verlab/.ideamaker.git
 ```
 
-# Usage
+# Usage 101
+## 1 Step (Import Model)
 * Open the ideamaker slicer:
 ```sh
 $ ideamaker
 ```
+* Add a 3D model usign stl format
+![system](doc/img/step1.png)
+
+## 2 Step (Slice Model)
+* Click on Slice Button
+* Check if the printer type
+* Select the filament and the quality 
+![system](doc/img/step2.png)
+
+## 3 Step (Infill Model)
+* Select the better infill density and platform adhesion types
+* Save and click on slice button
+![system](doc/img/step3.png)
+
+## 4 Step (Export Model)
+* Check the estimates
+* Click on Export
+![system](doc/img/step4.png)
+* Save to gcode format
+![system](doc/img/step5.png)
+
+## 5 Step (Printing)
+* Open the browser and type the local address of the printer
+* Log the user with password (ldap)
+* Upload the exported file in gcode format
+![system](doc/img/step6.png)
+* Click on the imported file and finally click on print button
+![system](doc/img/step7.png)
 
 # Tested Configurations
+> **Please, feel free to report any issue.**
 ## ABS
 - [ ] High Quality - ABS
 - [x] Standard Quality - ABS
