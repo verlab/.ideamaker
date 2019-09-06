@@ -1,0 +1,44 @@
+{
+    "header": {
+        "filament_id": "7e76d445-7aba-48f6-8e15-e1a45a59f7b2",
+        "filament_name": "PVA 1.75mm"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "Sethi Aip 3",
+        "filament_density": 1230,
+        "filament_diameter": 1.75,
+        "filament_display_name": "[Sethi Aip 3] PVA 1.75mm",
+        "filament_flowrate": 95,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_notes": "",
+        "filament_price": 80
+    },
+    "slice_settings": {
+        "brim_loops": 7,
+        "dense_support_infill_ratio": 70,
+        "dense_support_layers": 5,
+        "extruder_switch_retraction_speed1": 20,
+        "extrusion_width1": 0.5,
+        "filament_flow1": 100,
+        "platform_addition": "BrimOnly",
+        "support_base_layers": 4,
+        "support_infill_angle_list": "-45;45",
+        "support_infill_ratio": 30,
+        "support_infill_type": "Lines",
+        "support_overhang_angle": 35,
+        "support_xy_expansion": 0,
+        "support_xy_offset": 0.10000000000000001,
+        "support_z_offset_down_layers": 0,
+        "support_z_offset_up_layers": 0,
+        "temperature_extruder1": 220,
+        "wipe_tower_enable": true,
+        "wipe_tower_infill_ratio": 100,
+        "wipe_tower_speed": 20,
+        "wipe_tower_width": 18,
+        "wipe_wall_enable": true,
+        "wipe_wall_speed": 30
+    },
+    "version": 1
+}

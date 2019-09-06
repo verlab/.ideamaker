@@ -1,19 +1,19 @@
 {
     "header": {
-        "filament_id": "db0ee1f5-1624-4d9d-8d05-ba9e1728a673",
-        "filament_name": "PLA 1.75mm"
+        "filament_id": "0a9f6b83-6508-4ccb-bccb-a571e228ddeb",
+        "filament_name": "PLA 3mm"
     },
     "override_slice_settings": false,
     "settings": {
         "filament_brand": "Sethi Aip 3",
-        "filament_density": 1270,
-        "filament_diameter": 1.75,
-        "filament_display_name": "[Sethi Aip 3] PLA 1.75mm",
+        "filament_density": 1300,
+        "filament_diameter": 2.9300000667572021,
+        "filament_display_name": "[Sethi Aip 3]  PLA 3mm",
         "filament_flowrate": 100,
         "filament_gcode_end": "",
         "filament_gcode_start": "",
         "filament_notes": "",
-        "filament_price": 120
+        "filament_price": 30
     },
     "slice_settings": {
     },

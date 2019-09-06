@@ -5,9 +5,14 @@
     },
     "override_slice_settings": false,
     "settings": {
+        "filament_brand": "Sethi Aip 3",
         "filament_density": 1250,
         "filament_diameter": 1.75,
+        "filament_display_name": "[Sethi Aip 3] PETG 1.75mm",
         "filament_flowrate": 100,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_notes": "",
         "filament_price": 110
     },
     "slice_settings": {

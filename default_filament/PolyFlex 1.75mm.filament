@@ -5,9 +5,14 @@
     },
     "override_slice_settings": false,
     "settings": {
+        "filament_brand": "Polymaker",
         "filament_density": 1210,
         "filament_diameter": 1.75,
+        "filament_display_name": "[Sethi Aip 3] PolyFlex 1.75mm",
         "filament_flowrate": 100,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_notes": "",
         "filament_price": 76
     },
     "slice_settings": {

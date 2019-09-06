@@ -5,7 +5,7 @@
 This repository is used to share configuration file of our 3D printer.
 
 # Dependencies
-* [Ideamaker 3.1.7 (Stable Version)](https://www.raise3d.com/pages/download)
+* [Ideamaker 3.4.2 (Stable Version)](https://www.raise3d.com/pages/download)
 * Install this repo:
 ```sh
 $ cd ~

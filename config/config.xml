@@ -4,9 +4,9 @@
 	<show_note>0</show_note>
 	<lang>sys</lang>
 	<skip_version></skip_version>
-	<last_save_dir>/media/rezeck/SD Card/d&amp;d/</last_save_dir>
-	<last_open_dir>/home/rezeck/Downloads/dd_figures/</last_open_dir>
-	<last_export_dir>/home/rezeck/Downloads/spider/</last_export_dir>
+	<last_save_dir>/home/rezeck/Desktop/</last_save_dir>
+	<last_open_dir>/home/rezeck/Desktop/</last_open_dir>
+	<last_export_dir>/home/rezeck/Desktop/</last_export_dir>
 	<enable_skin>1</enable_skin>
 	<camera>
 		<camera_distance>330.00</camera_distance>
@@ -16,7 +16,7 @@
 		<camera_angleY>0.00</camera_angleY>
 	</camera>
 	<printers>
-		<current>13</current>
+		<current>12</current>
 		<item>
 			<type>ideaPrinter F100</type>
 			<max_print_x>305.00</max_print_x>
@@ -371,9 +371,9 @@
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
 			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
 			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
-			<extruder_filament_1>5</extruder_filament_1>
+			<extruder_filament_1>10</extruder_filament_1>
 			<extruder_filament_2>0</extruder_filament_2>
-			<extruder_filament_name_1>PolyFlex 1.75mm</extruder_filament_name_1>
+			<extruder_filament_name_1>PLA 1.75mm - V2 Hot End</extruder_filament_name_1>
 			<extruder_filament_name_2>PLA 3mm</extruder_filament_name_2>
 			<baudrate>230400</baudrate>
 			<extruder_temp_max_1>250</extruder_temp_max_1>
@@ -399,9 +399,9 @@
 			<extruder_2_offset_y>0.00</extruder_2_offset_y>
 			<virtual_extruder_2_offset_x>25.00</virtual_extruder_2_offset_x>
 			<virtual_extruder_2_offset_y>0.00</virtual_extruder_2_offset_y>
-			<extruder_filament_1>3</extruder_filament_1>
+			<extruder_filament_1>2</extruder_filament_1>
 			<extruder_filament_2>0</extruder_filament_2>
-			<extruder_filament_name_1>ABS 1.75mm</extruder_filament_name_1>
+			<extruder_filament_name_1>PLA 1.75mm</extruder_filament_name_1>
 			<extruder_filament_name_2>PLA 3mm</extruder_filament_name_2>
 			<baudrate>230400</baudrate>
 			<extruder_temp_max_1>250</extruder_temp_max_1>
@@ -411,7 +411,7 @@
 		</item>
 	</printers>
 	<materials>
-		<current>5</current>
+		<current>10</current>
 		<material>
 			<name>PLA 3mm</name>
 			<filament_diameter>2.930</filament_diameter>
@@ -600,8 +600,8 @@
 	<cross_metric>mm</cross_metric>
 	<support>
 		<touch_buildplate>0</touch_buildplate>
-		<pillar_size>3.00</pillar_size>
-		<overhang_angle>60.0</overhang_angle>
+		<pillar_size>10.00</pillar_size>
+		<overhang_angle>85.0</overhang_angle>
 	</support>
 	<import_property>
 		<init_vertex_weld>0</init_vertex_weld>
@@ -626,6 +626,14 @@
 			<current_version>0.0.31.0</current_version>
 			<skip_version></skip_version>
 		</pro2-motionboard>
+		<announcement>
+			<check_update>1</check_update>
+			<current_version>0.0.0.0</current_version>
+		</announcement>
+		<new_product>
+			<check_update>1</check_update>
+			<current_version>0.0.0.0</current_version>
+		</new_product>
 	</update>
 	<slice_thread>3</slice_thread>
 	<extruder_color>
@@ -658,15 +666,21 @@
 		<checkbox_tip_mirror>1</checkbox_tip_mirror>
 		<checkbox_tip_shortcuts>1</checkbox_tip_shortcuts>
 		<checkbox_obsolete>1</checkbox_obsolete>
+		<checkbox_tip_sequential>1</checkbox_tip_sequential>
+		<checkbox_tip_global_scale>1</checkbox_tip_global_scale>
 		<show_shortcuts_tip>0</show_shortcuts_tip>
 		<show_edges>0</show_edges>
 		<show_wireframes>0</show_wireframes>
 		<show_color_invalid_meshs>1</show_color_invalid_meshs>
 		<show_axes>1</show_axes>
 		<show_perspective>0</show_perspective>
-		<checkbox_tip_grouplayer>1</checkbox_tip_grouplayer>
+		<checkbox_tip_grouplayer>0</checkbox_tip_grouplayer>
 		<checkbox_model_deletion>0</checkbox_model_deletion>
 		<show_extruder_range>1</show_extruder_range>
+		<show_model_shadow>0</show_model_shadow>
+		<show_sequence_number>1</show_sequence_number>
+		<show_printhead_area>1</show_printhead_area>
+		<first_show_advanced_speed>0</first_show_advanced_speed>
 	</tip>
 	<shortcuts>
 		<rotate_modifier>none</rotate_modifier>
@@ -684,6 +698,8 @@
 		<enable_custom_font>0</enable_custom_font>
 		<custom_font_family></custom_font_family>
 		<custom_font_size>9</custom_font_size>
+		<slice_button_behavior>0</slice_button_behavior>
+		<enable_auto_preview>0</enable_auto_preview>
 	</interface>
 	<control_limit>
 		<max_duplicate>5</max_duplicate>
@@ -692,15 +708,15 @@
 		<current>0</current>
 	</currency_list>
 	<recent>
-		<file>/home/rezeck/mega/Projects/ROS/src/bioloid_common/bioloid_description/assets/stl/F12.stl</file>
-		<file>/home/rezeck/Downloads/guts.stl</file>
-		<file>/home/rezeck/Downloads/dd_figures/Beholder One Piece.stl</file>
-		<file>/home/rezeck/Downloads/dd_figures/Demogorgon for Shapeways.stl</file>
-		<file>/home/rezeck/Downloads/dd_figures/Mindflayer_overmind_PRINT.stl</file>
-		<file>/home/rezeck/Downloads/dd_figures/Green Dragon Updated for Shapeways.stl</file>
-		<file>/home/rezeck/Downloads/dd_figures/Naxen Drathkala.stl</file>
-		<file>/home/rezeck/Downloads/spider/hugo_LensMesh-export.stl</file>
-		<file>/home/rezeck/Downloads/spider/hugo_ScarletSpiderMeshLensL-export.stl</file>
-		<file>/home/rezeck/Downloads/spider/hugo_ScarletSpiderMeshLensR-export.stl</file>
+		<file>/home/rezeck/Desktop/Kinova Bucket resized v1_part0-export.stl</file>
+		<file>/home/rezeck/Desktop/Kinova Bucket resized v1.stl</file>
+		<file>/home/rezeck/Desktop/Verlab-Arm ITV/Kinova coupling.stl</file>
+		<file>/home/rezeck/Desktop/Kinova Bucket VerLab-export-export.stl</file>
+		<file>/tmp/Kinova Bucket resized v1.stl</file>
+		<file>/home/rezeck/Desktop/Kinova Bucket VerLab-export.stl</file>
+		<file>/tmp/Kinova Bucket VerLab.stl</file>
+		<file>/tmp/untitled.stl</file>
+		<file>/tmp/Arquivo Comprimido/RPi_down_cover.stl</file>
+		<file>/tmp/Arquivo Comprimido/RPi_upper_cover_ufmg.stl</file>
 	</recent>
 </config>
