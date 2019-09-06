@@ -51,14 +51,16 @@ $ ideamaker
 # Tested Configurations
 > **Please, feel free to report any issue.**
 ## ABS
-- [ ] High Quality - ABS
+- [x] High Quality - ABS
 - [x] Standard Quality - ABS
 - [x] Low Quality - ABS
+- [ ] Ultra Low Quality - ABS
 
 ## PLA
-- [ ] High Quality - ABS
-- [ ] Standard Quality - ABS
-- [ ] Low Quality - ABS
+- [x] High Quality - ABS
+- [x] Standard Quality - ABS
+- [x] Low Quality - ABS
+- [ ] Ultra Low Quality - ABS
 
 ## PETG
 - [ ] High Quality - ABS
